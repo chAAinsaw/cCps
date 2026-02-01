@@ -1,0 +1,8 @@
+name: cCps
+main: chainsaw\cps\Main
+version: 1.0.0
+api: 5.0.0
+author: Chainsaw
+permissions:
+  vynox.cps:
+    default: true

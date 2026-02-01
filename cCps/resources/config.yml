@@ -1,0 +1,14 @@
+popup_format: "[cCPS] {cps}"
+
+form_title: "cCPS Menu"
+form_content: "Statut actuel: {status}"
+button_enabled: "§aActivé"
+button_disabled: "§cDésactivé"
+
+status_enabled: "§aactivé"
+status_disabled: "§cdésactivé"
+status_enabled_display: "§aActivé"
+status_disabled_display: "§cDésactivé"
+
+toggle_message: "Affichage du CPS {status} !"
+permission: "vynox.cps"
